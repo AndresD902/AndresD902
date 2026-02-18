@@ -1,16 +1,41 @@
-## Hi there 👋
+# Andrés Posada 👨‍💻
 
-<!--
-**AndresD902/AndresD902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student (7th Semester)  
+💻 Backend Developer Junior | C# | .NET | SQL Server  
+📍 Medellín, Colombia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Backend-focused developer with academic experience building MVC applications using C# and .NET.  
+Strong foundation in Object-Oriented Programming and CRUD operations with SQL Server.  
+Passionate about clean architecture and scalable backend systems.
+
+---
+
+## 🛠 Tech Stack
+- C#
+- .NET / ASP.NET MVC
+- SQL Server
+- Git & GitHub
+- MVC Architecture
+- Object-Oriented Programming (OOP)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Savings Account System
+Banking transaction management system implementing deposits, withdrawals, and balance inquiries.
+
+### 🔹 Task Manager CRUD
+Desktop application for managing tasks with full CRUD functionality and SQL Server integration.
+
+### 🔹 Web Cashier System
+MVC web application handling financial transactions with business logic validation.
+
+---
+
+## 📫 Contact
+✉️ posadaandres543@gmail.com  
+
